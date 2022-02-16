@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTurnPromptBot", "MultiTurnPromptBot.csproj", "{FCD6384C-B0FE-414D-8680-54E8CB9F59DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD6384C-B0FE-414D-8680-54E8CB9F59DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD6384C-B0FE-414D-8680-54E8CB9F59DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD6384C-B0FE-414D-8680-54E8CB9F59DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD6384C-B0FE-414D-8680-54E8CB9F59DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADD241E-5ADD-458D-BDA3-937F8D2A250C}
+	EndGlobalSection
+EndGlobal
